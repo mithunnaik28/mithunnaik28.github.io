@@ -1,0 +1,8 @@
+dist
+dist-ssr
+dist-ssr
+node_modules
+scaffold.log
+*.local
+.DS_Store
+.vite

@@ -1,0 +1,21 @@
+{
+  "name": "money-manager",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A simple money management dashboard built with React.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "node scripts/check-utils.mjs && node scripts/render-check.mjs"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "vite": "^7.1.0"
+  }
+}
