@@ -13,3 +13,5 @@ A small, dependency-light money management dashboard built with **React 19 + Vit
 - Export the visible transactions to CSV.
 - Everything is persisted in `localStorage`, so the data survives a page reload.
 - Starts empty and only ever holds your own data - no sample data is pre-loaded.
+
+# Thank you
